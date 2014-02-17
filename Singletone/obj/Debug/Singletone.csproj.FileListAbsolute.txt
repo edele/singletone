@@ -1,6 +1,0 @@
-C:\p\RBIM\Singletone\Singletone\bin\Debug\Singletone.exe.config
-C:\p\RBIM\Singletone\Singletone\obj\Debug\Singletone.csprojResolveAssemblyReference.cache
-C:\p\RBIM\Singletone\Singletone\bin\Debug\Singletone.exe
-C:\p\RBIM\Singletone\Singletone\bin\Debug\Singletone.pdb
-C:\p\RBIM\Singletone\Singletone\obj\Debug\Singletone.exe
-C:\p\RBIM\Singletone\Singletone\obj\Debug\Singletone.pdb
